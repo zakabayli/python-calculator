@@ -15,7 +15,5 @@ A simple command-line calculator written in Python. It supports basic operations
 - Python 3.x
 - `art` library
 
-Install the required package using:
-
-```bash
-pip install -r requirements.txt
+🎯 Why this project?
+I'm currently learning Python and building mini projects to practice key concepts like functions, loops, and input/output.
